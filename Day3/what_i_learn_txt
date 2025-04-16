@@ -1,0 +1,18 @@
+1] primative Data
+   a. Number
+      eg :12,1,2,3
+
+    b.string = collection of chars 
+     eg :"easycode"
+
+    3] Boolean
+      eg: true , false 
+   
+   4] Null
+        let a -Null
+   
+   5]undefined
+     let a
+
+
+2] Non-primative
