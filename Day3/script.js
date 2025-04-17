@@ -14,7 +14,7 @@
   let college_name ="ATC BHOR"
   let address ="AT POST MHAVSHI"
 
-  //
+  // 
 
 
 
